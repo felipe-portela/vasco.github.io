@@ -10,6 +10,8 @@ head {
 }
 body{
   color: red;
- font face= Arial color="Green"
+}
+body li{
+  font face= Arial color="Green"
 }
 
